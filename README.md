@@ -19,7 +19,7 @@ Tecnologías: HTML5, Bootstrap 5 (CDN), JavaScript, PHP 8 con PDO, MySQL 8, XAMP
 
 | Correo | Contraseña |
 |---|---|
-| demo@tecnostock.cl | Demo1234! |
+| Admin@tecnostock.cl | Admin123! |
 
 Es solo para evaluar el proyecto. Para crear otro usuario hay que generar el hash de la contraseña:
 
