@@ -1,8 +1,0 @@
-# Archivos del sistema y del editor
-.vscode/
-.idea/
-Thumbs.db
-.DS_Store
-
-# Si más adelante usas credenciales reales, no las subas a GitHub:
-# config/conexion.php
